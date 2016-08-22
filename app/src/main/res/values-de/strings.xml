@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Semanatres</string>
+    <string name="saludo_inicial">Willkommen</string>
+    <string name="texto_boton_iniciar">Betreten</string>
+</resources>

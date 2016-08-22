@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Semanatres</string>
+    <string name="saludo_inicial">Bienvenido</string>
+    <string name="texto_boton_iniciar">Entrar</string>
+</resources>
